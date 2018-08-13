@@ -1,0 +1,11 @@
+[root@otuslinux /]# df -hT
+Filesystem                      Type      Size  Used Avail Use% Mounted on
+/dev/mapper/VolGroup00-LogVol00 xfs        38G  1.8G   36G   5% /
+devtmpfs                        devtmpfs  487M     0  487M   0% /dev
+tmpfs                           tmpfs     496M  6.8M  490M   2% /run
+tmpfs                           tmpfs     496M     0  496M   0% /sys/fs/cgroup
+/dev/md0p1                      ext4       74M  1.6M   67M   3% /mnt/md0p1
+/dev/md0p2                      ext4       74M  1.6M   67M   3% /mnt/md0p2
+/dev/md0p3                      ext4       74M  1.6M   67M   3% /mnt/md0p3
+/dev/md0p4                      ext4       74M  1.6M   67M   3% /mnt/md0p4
+/dev/md0p5                      ext4       74M  1.6M   67M   3% /mnt/md0p5
