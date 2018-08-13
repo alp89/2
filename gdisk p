@@ -1,0 +1,15 @@
+Disk /dev/md0: 1015808 sectors, 496.0 MiB
+Logical sector size: 512 bytes
+Disk identifier (GUID): 7207A9A7-2ADC-4E22-A9C7-83C5B6823375
+Partition table holds up to 128 entries
+First usable sector is 34, last usable sector is 1015774
+Partitions will be aligned on 2048-sector boundaries
+Total free space is 196541 sectors (96.0 MiB)
+
+Number  Start (sector)    End (sector)  Size       Code  Name
+   1            2048          165887   80.0 MiB    8300  Linux filesystem
+   2          165888          329727   80.0 MiB    8300  Linux filesystem
+   3          329728          493567   80.0 MiB    8300  Linux filesystem
+   4          493568          657407   80.0 MiB    8300  Linux filesystem
+   5          657408          821247   80.0 MiB    8300  Linux filesystem
+  
